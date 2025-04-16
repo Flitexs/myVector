@@ -1,0 +1,30 @@
+# Ignore Visual Studio Code specific files
+.vscode/
+
+# Ignore build artifacts
+build/
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Ignore C++ debugging files
+*.pdb
+*.ilk
+
+# Ignore temporary files
+*.tmp
+*.log
+*.cache
+
+# Ignore generated files
+*.out
+*.a
+*.lib
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
